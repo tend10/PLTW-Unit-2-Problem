@@ -1,0 +1,54 @@
+enjoyed,1
+amazing, 1
+superb,1
+memorable,1
+masterpiece,1
+nice,0.5
+unique,0.5
+epic,1
+Oscar,1
+loved,1
+stunning,1
+positive,0.5
+captivating,1
+commendable,1
+good,0.5
+great,1
+vivid,1
+intense,0.5
+powerful,0.5
+awesome,0.5
+pivotal,1
+fun,0.5
+favorite,1
+favourite,1
+worthwhile,1
+slay,0.5
+disappointing, -1
+horrible,-0.5
+terrible,-0.5
+pathetic,-1
+horrendous,-1
+bad,-0.5
+adverse,-1
+avoid,-0.5
+wrong,-0.5
+hate,-1
+sad,-0.5
+boring,-1
+disaster,-1
+sucks,-0.5
+underwhelming,-1
+overwhelming,-0.5
+childish,-0.5
+cheap,-0.5
+not,-0.5
+diminish,-1
+mixed,-0.5
+upset,-0.5
+rushed,-0.5
+worse,-1
+unpleasant,-0.5
+irrelevant, -1
+insult, -1
+emotionless, -1
